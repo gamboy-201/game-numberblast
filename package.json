@@ -1,0 +1,11 @@
+{
+  "name": "game-numberblast",
+  "version": "1.0.0",
+  "description": "2D physics game with Matter.js and pixi.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Surya Dev Singh",
+  "license": "ISC"
+}
